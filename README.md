@@ -9,7 +9,7 @@
 🤝 Open to collaborations in data engineering, DevOps, and automation projects.  
 
 📫 **Get in touch**:  
-- Email: [alireza.houshmand@example.com](mailto:alireza.houshmand@example.com)  
+- Email: [alireza.houshmand@example.com](mailto:alireza.houshmand121@gmail.com)  
 - LinkedIn: [linkedin.com/in/alireza-houshmand](https://linkedin.com/in/alireza-houshmand)
 
 ---
